@@ -5,3 +5,8 @@ Tools covered
 Linux
 Ansible 
 Terraform
+Kubernetes
+AWS
+Azure
+GCP
+
