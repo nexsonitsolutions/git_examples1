@@ -1,0 +1,7 @@
+Hello world
+welcome to devops sessions
+Tools covered
+
+Hadoop
+Spark 
+Scala
